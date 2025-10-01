@@ -1,12 +1,11 @@
   body{
-            color: rgba(108, 90, 158, 0.733);
-            background-color: rgba(205, 164, 233, 0.733);
-            margin: 0px;
+            color: rgba(31, 73, 30, 0.733);
+            background-color: rgba(165, 233, 164, 0.733);
         }   
        .picture{
             width: 350px;
             height: 300px;
-            box-shadow: 5px 5px 7px rgb(203, 145, 218);
+            box-shadow: 5px 5px 7px rgb(17, 61, 17);
             border-radius: 10px;
         }
         header{
@@ -23,22 +22,22 @@
         }
 
         table{
-            border: 1px solid rgb(64, 34, 82);
+            border: 1px solid rgb(17, 61, 17);
             border-radius: 10px;
         }
 
         td{  
-            border: 1px solid rgb(85, 34, 90);
+            border: 1px solid;
             border-radius: 10px;
         }
 
         .stylish{
-            border: 1px solid rgb(0, 0, 0);
+            border: 1px solid rgb(17, 61, 17);
             border-radius: 10px;
             margin-top: 10px;
-            margin-bottom: 10px;
+            margin-bottom: 3px;
         }
 
         table mark{
-            background-color: rgb(188, 131, 214);
+            background-color: rgb(243, 153, 198);
         }
